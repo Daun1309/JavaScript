@@ -10,9 +10,9 @@ var Links = {
   }
 }
 
-var Body = {// document.querySelector('body').style.color = color;
+var Body = {
     setColor:function(color){
-        
+        // document.querySelector('body').style.color = color;
         $('body').css('color',color);
     },
     setBackgroundColor:function(color){

@@ -8,7 +8,7 @@ var Links = {
     // }
     $('a').css('color',color);
   }
-}
+} 
 
 var Body = {
     setColor:function(color){
